@@ -14,8 +14,8 @@ El grupo empresarial multinacional cuenta con más de una década de experiencia
 - Vivanda
 ## Contacto
 - **Nombre**: Katherine Solange Villanueva Zuñiga
-- **Correo**: 
-- **Celular**: 
+- **Correo**: analista.nominas@paemgroup.pe
+- **Celular**: 997057134
 - **Puesto**: Jefa del área de recursos humanos
 ---
 ***[Regresar al índice](../../README.md)***
